@@ -1,4 +1,4 @@
-# HappyBirthday
+# Restaurant-Site
 
 This repository contains code for the Restaurant-Site 
 
